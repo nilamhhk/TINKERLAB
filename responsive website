@@ -1,0 +1,106 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>RESPONSIVE WEBSITE</title>
+<style>
+
+Body {
+background-color: lightblue;
+}
+
+.Box {
+	width: 250px;
+	padding: 25px;
+	background-color: yellow;
+	margin: 20px auto;
+	text-align: center;
+	border-radius: 5px ;
+	border: 2px solid;
+}
+
+
+.container {
+	     Display: flex; 
+             flex-wrap: wrap;
+	     justify-content: center;
+}
+
+</style>
+</head>
+<body id="TOP">
+
+
+
+<Div class = "Box" style= "background-color: blue; font-size: 20px;">
+MY RESPONSIVE WEBSITE
+</Div>
+
+<Div class = "Box" style= "background-color: lime ; width: 150px; font-size: 22px; 0padding: 12px;">
+Cources
+</Div>
+
+<Div class = "container">
+
+<Div class = "Box" style= "background-color: yellow; border-radius: 15px; width: 130px;
+">
+<a href="#HTML">HTML</a>
+</Div>
+
+<Div class = "Box" style= "background-color: red; border-radius: 15px; width: 130px;">
+<a href="#CSS">CSS</a>
+</Div>
+
+<Div class = "Box" style= "background-color: white; border-radius: 15px; width: 130px;">
+<a href="#INTERNAL">INTERNAL</a>
+</Div>
+
+<Div class = "Box" style= "background-color: orange; border-radius: 15px; width: 130px;">
+<a href="#EXTERNAL">EXTERNAL</a>
+
+</Div>
+
+<Div class = "Box"style= "background-color: pink; border-radius: 15px; width: 130px;">
+<a href="#INLINE">INLINE</a>
+</Div>
+</Div>
+
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br 
+
+
+<section id="HTML">
+<p> Structure <br><br> Elements <br><br> Tags <br><br> Semantics <br><br></p>
+</section>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br> <br><brbr>
+
+
+<section id="CSS">
+<p> Styling <br><br> Selectors <br><br> Layout <br><br> Colors <br><br></p>
+</section>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br> <br><brbr>
+
+<section id="INTERNAL">
+<p> Head <br><br> Document <br><br> Scoped <br><br> Embedded <br><br></p>
+</section>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br><brbr>
+
+
+<section id="EXTERNAL">
+<p> Reusable <br><br> Global <br><br> Stylesheet <br><br> Stylesheet <br><br></p>
+</section>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br> <br><brbr>
+
+<section id="INLINE">
+<p> Attribute <br><br> Specific <br><br> Direct <br><br> Override <br><br></p>
+</section>
+
+
+<Div class = "Box" style= "background-color: black;">
+<a href="#TOP">TOP</a>
+</Div>
+
+
+
+
+</body>
+<head>
+</html>

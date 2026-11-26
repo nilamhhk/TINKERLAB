@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+<head>
+    <title>Inline CSS</title> 
+</head>
+<body>
+<H1 style="color: Red;">Red Heading</H1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!DOCTYPE>
+<html> 
+  <head>
+    <title>Internal CSS</title> 
+<style>
+    Body{
+         Background-color:lightblue;
+        }
+      h1 
+      	{
+	 color:purple;
+	}
+      p
+	{
+	 font-size:30px;
+         color:blue;
+	 font-style:italic;
+         }
+</style>
+</head>
+<body>
+  <h1 style="color:yellow;"> Internal CSS</h1>
+  <p style="color:red;"> We are learning internal CSS and inline CSS in tinker lab as a first year student of btech computer science at symbiosis institue of technology wathoda nagpur, 440008. This is our fourth project in tinker lab.  We are learning internal CSS and inline CSS in tinker lab as a first year student of btech computer science at symbiosis institue of technology wathoda nagpur, 440008. This is our fourth project in tinker lab. </p>
+</body>
+</html>
